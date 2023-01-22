@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dlNjcFx7GMPjl8zr8ExKei39/7dkilUPGJD4W7060JjlYiTxHxoLkyDoJizRE3yyP32uiWn2V/akNxUOt7hFlQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Антон\\Documents\\C-Projects\\Shapes\\Family\\Shapes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Антон\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
