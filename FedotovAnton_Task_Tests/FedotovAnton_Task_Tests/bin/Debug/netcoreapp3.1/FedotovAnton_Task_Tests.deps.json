@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FedotovAnton_Task_Tests/1.0.0": {
+        "runtime": {
+          "FedotovAnton_Task_Tests.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FedotovAnton_Task_Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
