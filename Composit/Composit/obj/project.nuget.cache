@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "duldGDF2+TDJ6guvFnJ3w4i4vU2/m6ZRI4tySmsHm+1cCA4+F72W3GjBnsXGYRA3tEAA0RvPZXBfX7Eyx9plzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Антон\\Documents\\C-Projects\\Composit\\Composit\\Composit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Антон\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

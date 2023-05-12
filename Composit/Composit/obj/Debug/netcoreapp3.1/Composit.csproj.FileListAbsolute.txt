@@ -1,0 +1,14 @@
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\bin\Debug\netcoreapp3.1\Composit.exe
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\bin\Debug\netcoreapp3.1\Composit.deps.json
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\bin\Debug\netcoreapp3.1\Composit.runtimeconfig.json
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\bin\Debug\netcoreapp3.1\Composit.runtimeconfig.dev.json
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\bin\Debug\netcoreapp3.1\Composit.dll
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\bin\Debug\netcoreapp3.1\Composit.pdb
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\obj\Debug\netcoreapp3.1\Composit.csproj.AssemblyReference.cache
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\obj\Debug\netcoreapp3.1\Composit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\obj\Debug\netcoreapp3.1\Composit.AssemblyInfoInputs.cache
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\obj\Debug\netcoreapp3.1\Composit.AssemblyInfo.cs
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\obj\Debug\netcoreapp3.1\Composit.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\obj\Debug\netcoreapp3.1\Composit.dll
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\obj\Debug\netcoreapp3.1\Composit.pdb
+C:\Users\Антон\Documents\C-Projects\Composit\Composit\obj\Debug\netcoreapp3.1\Composit.genruntimeconfig.cache
