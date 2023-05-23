@@ -1,0 +1,14 @@
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\bin\Debug\netcoreapp3.1\Circles.exe
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\bin\Debug\netcoreapp3.1\Circles.deps.json
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\bin\Debug\netcoreapp3.1\Circles.runtimeconfig.json
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\bin\Debug\netcoreapp3.1\Circles.runtimeconfig.dev.json
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\bin\Debug\netcoreapp3.1\Circles.dll
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\bin\Debug\netcoreapp3.1\Circles.pdb
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\obj\Debug\netcoreapp3.1\Circles.csproj.AssemblyReference.cache
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\obj\Debug\netcoreapp3.1\Circles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\obj\Debug\netcoreapp3.1\Circles.AssemblyInfoInputs.cache
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\obj\Debug\netcoreapp3.1\Circles.AssemblyInfo.cs
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\obj\Debug\netcoreapp3.1\Circles.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\obj\Debug\netcoreapp3.1\Circles.dll
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\obj\Debug\netcoreapp3.1\Circles.pdb
+C:\Users\Антон\Documents\C-Projects\Circles\Circles\obj\Debug\netcoreapp3.1\Circles.genruntimeconfig.cache

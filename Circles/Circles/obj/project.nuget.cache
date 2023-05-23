@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hXmVCYTuF9Ux0EtYXWYHbFrCKjts6Ct4TIoTkXOTtEPqStZ+aqEQAw5V/wRdRqyEKVflENkK4OpquRB2tQET+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Антон\\Documents\\C-Projects\\Circles\\Circles\\Circles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Антон\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
