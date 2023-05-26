@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7nzp54vlKlZo8K0ovn8NYGCOVyztT5IOFE/FFvKOew4KJMQa0mJONVRWCwooY/e+dovhPMTKvo2j+TqD7+EwAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Антон\\Documents\\C-Projects\\Patterns2\\Patterns2\\Patterns2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Антон\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
