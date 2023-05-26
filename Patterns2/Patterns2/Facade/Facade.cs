@@ -1,5 +1,6 @@
 ﻿namespace Patterns2.Facade
 {
+    // позволяет скрыть сложность системы с помощью предоставления упрощенного интерфейса для взаимодействия с ней
     public class Facade
     {
         private SubSystemA _subSystemA;

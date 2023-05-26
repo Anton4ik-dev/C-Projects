@@ -1,5 +1,6 @@
 ﻿namespace Patterns2.Decorator
 {
+    // позволяет динамически подключать к объекту дополнительную функциональность
     public abstract class Decorator : Component
     {
         protected Component _component;

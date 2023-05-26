@@ -2,6 +2,7 @@
 
 namespace Patterns2.Composite
 {
+    // объединяет группы объектов в древовидную структуру по принципу "часть-целое и позволяет клиенту одинаково работать как с отдельными объектами, так и с группой объектов
     public class Composite : Component
     {
         private List<Component> _children = new List<Component>();

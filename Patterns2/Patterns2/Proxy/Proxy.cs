@@ -1,5 +1,6 @@
 ﻿namespace Patterns2.Proxy
 {
+    // управляет доступом к другому объекту
     public class Proxy : Subject
     {
         private RealSubject _realSubject;
